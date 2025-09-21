@@ -9,7 +9,7 @@ Each project demonstrates skills in **data cleaning, data modeling, DAX calculat
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - Data Modeling
-- Excel (data cleaning)
+- Excel (data cleaning and data extraction)
 - Visualization & Business Storytelling
 
 ### 🚀 Goal
